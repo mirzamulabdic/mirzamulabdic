@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mirza Mulabdić</h1>
-<h3 align="center">Junior software developer from Bosnia.</h3>
+<h3 align="center">Software engineering student from Bosnia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirzamulabdic&label=Profile%20views&color=0e75b6&style=flat" alt="mirzamulabdic" /> </p>
 
