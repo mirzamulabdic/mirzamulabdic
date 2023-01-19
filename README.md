@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mirza Mulabdić</h1>
 <h3 align="center">Software developer from Bosnia.</h3>
 
-<p align="left"> <a href="https://twitter.com/mirzamulabdic1" target="blank"><img src="https://img.shields.io/twitter/follow/mirzamulabdic1?logo=twitter&style=for-the-badge" alt="mirzamulabdic1" /></a> </p>
-
 - 📫 How to reach me **mirzamulabdic1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
